@@ -1,0 +1,3 @@
+ALTER TABLE `housegz`.`s_aj_sales`   
+  ADD COLUMN `inputdate` DATETIME NULL DEFAULT CURRENT_TIMESTAMP
+  
